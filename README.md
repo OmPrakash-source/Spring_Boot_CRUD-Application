@@ -123,7 +123,7 @@ spring.application.name=crudSpring
 
 spring.datasource.url=jdbc:mysql://localhost:3306/student_crud_db
 spring.datasource.username=root
-spring.datasource.password=2005
+spring.datasource.password=****
 spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 
 spring.jpa.hibernate.ddl-auto=update
@@ -196,8 +196,4 @@ This project is intended for educational and learning purposes.
 
 ## Author
 
-Om Prakash
-
-## Contributing
-
-Contributions are welcome. If you want to improve the project, feel free to open a pull request or suggest enhancements.
+Omprakash
